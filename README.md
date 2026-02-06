@@ -1,3 +1,5 @@
+Per afegir un component fer el següent:
+
 git status
 
 git add .
